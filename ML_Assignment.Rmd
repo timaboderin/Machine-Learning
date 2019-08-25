@@ -1,4 +1,11 @@
-#oluwadurotimi Aboderin
+---
+title: 'ML Assignment'
+author: "Oluwadurotimi Aboderin"
+output:
+  html_document:
+    keep_md: yes
+    toc: yes
+---
 ##Packages, Libraries and Seed
 
 ```{r}
